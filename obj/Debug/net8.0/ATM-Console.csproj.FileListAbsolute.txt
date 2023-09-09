@@ -1,0 +1,14 @@
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\bin\Debug\net8.0\ATM-Console.exe
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\bin\Debug\net8.0\ATM-Console.deps.json
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\bin\Debug\net8.0\ATM-Console.runtimeconfig.json
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\bin\Debug\net8.0\ATM-Console.dll
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\bin\Debug\net8.0\ATM-Console.pdb
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\obj\Debug\net8.0\ATM-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\obj\Debug\net8.0\ATM-Console.AssemblyInfoInputs.cache
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\obj\Debug\net8.0\ATM-Console.AssemblyInfo.cs
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\obj\Debug\net8.0\ATM-Console.csproj.CoreCompileInputs.cache
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\obj\Debug\net8.0\ATM-Console.dll
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\obj\Debug\net8.0\refint\ATM-Console.dll
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\obj\Debug\net8.0\ATM-Console.pdb
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\obj\Debug\net8.0\ATM-Console.genruntimeconfig.cache
+C:\Users\gelso\DemoApp\repos\ATM-ConsoleDemo\ATM-Console\obj\Debug\net8.0\ref\ATM-Console.dll
